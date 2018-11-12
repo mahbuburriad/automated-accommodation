@@ -1,3 +1,5 @@
+you can visit the website first to see the impression: https://automatedaccommodation.mahbuburriad.com/
+
 You have to copy this file into xammp or wamp, then edit then push from your local repository..
 
 first of all install xampp, wamp in your computer. wampp need special c++ visual. so you can install xampp for easier use. if you are want to edit laravel section go to your local folder then click on
